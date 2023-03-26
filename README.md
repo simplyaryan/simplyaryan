@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Nginx , Docker**
 
-- 📫 How to reach me **s.aryan0327@gmail.com**
+- 📫 How to reach me **codehive06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
