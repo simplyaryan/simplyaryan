@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h3 align="center">A passionate full-stack developer from the US</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 🔭 I’m currently working on [ChatSphere](https://github.com/simplyaryan/ChatSphere)
 
