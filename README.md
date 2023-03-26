@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Aryan Singh</h1><br><h3 align="center">A passionate full-stack developer from the US</h3><br><br>- 🔭 I’m currently working on [ChatSphere](https://github.com/simplyaryan/ChatSphere)<br><br>- 🌱 I’m currently learning **SpringBoot, Nignx**<br><br>- 👯 I’m looking to collaborate on **Small open source projects**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/simplyaryan](https://github.com/simplyaryan)<br><br>- 💬 Ask me about **Java, Nginx , Docker**<br><br>- 📫 How to reach me **s.aryan0327@gmail.com**
+<h1 align="center">Hi 👋, I'm Aryan Singh</h1><br><h3 align="center">A passionate full-stack developer from the US</h3><br><br>- 🔭 I’m currently working on [ChatSphere](https://github.com/simplyaryan/ChatSphere)<br><br>- 🌱 I’m currently learning **SpringBoot, Nignx**<br><br>- 👯 I’m looking to collaborate on **Small open source projects**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/simplyaryan](https://github.com/simplyaryan)<br><br>- 💬 Ask me about **Java, Nginx , Docker**<br><br>- 📫 How to reach me **codehive06@gmail.com**
 
 
 # 💻 Tech Stack:
