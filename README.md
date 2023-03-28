@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ChatSphere](https://github.com/simplyaryan/ChatSphere)
 
-- 🌱 I’m currently learning **SpringBoot, Nignx**
+- 🌱 I’m currently learning **SpringBoot, Nginx**
 
 - 👯 I’m looking to collaborate on **Small open source projects**
 
